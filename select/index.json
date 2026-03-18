@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "神메뉴 God’s Menu",
+  "base_artist": "Stray Kids",
+  "createdAt": "2026-03-18T07:17:02.440124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God's Menu (神메뉴)",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "has_synced": true,
+      "path": "select/01_God's_Menu_(神메뉴)_Stray_Kids_(스트레이_키즈).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "神메뉴 God’s Menu",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/02_神메뉴_God’s_Menu_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "神메뉴 (God’s Menu)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/03_神메뉴_(God’s_Menu)_Stray_Kids.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "神메뉴 God’s Menu",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/localdb_01_神메뉴_God’s_Menu_Stray_Kids.lrc",
+      "repo_name": "TQTlCHxyuu8"
+    }
+  ]
+}
